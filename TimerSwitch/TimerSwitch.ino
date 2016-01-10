@@ -1,5 +1,6 @@
 int light = D3;     //pin to control the outlet 
-int led = D7;       //pin to turn on the built in led
+int led = D7;       //pin to turn on the built in led, this is just to see if the program works 
+                    //when the relay is not used. Could be removed. 
 bool toggle = true; //variable to keep track of current position of the relay
 void setup() {
     pinMode(light, OUTPUT);     //pin D3 is initialized as a output pin 
