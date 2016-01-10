@@ -1,0 +1,6 @@
+TimerSwitch project is a IoT project to control a lamp. 
+Spark core is used to connect a outlet to the internet and control it using smart phone, computer and IFTTT. 
+
+The lamp will turn on after sunset everyday and turn off at 2am in the night. This is controlled using IFTTT recipe. 
+
+Detailed information about this project is written in - 
